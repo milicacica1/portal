@@ -1,0 +1,262 @@
+html{
+	font-family: 'Open Sans', sans-serif;
+	background: rgba(228,229,233,0.91);
+	height: 100%;
+}
+a{
+	text-decoration: none;
+
+}
+.lista{
+
+
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		-ms-border-radius: 5px;
+		border-radius: 5px;
+
+		background-color: rgba(6,21,47,0.65);
+		vertical-align: middle;
+		display: inline-block;
+		text-align: center;
+		word-spacing: 1px;
+		
+		
+		height: 70px;
+		width: 160px;
+		color: white;
+
+}
+.link{
+
+	margin-top: 20px;
+	text-align: center;
+	cursor: pointer;
+	vertical-align: middle;
+}
+
+
+
+
+
+.wrapper{
+	background-color: white;
+	position: relative;
+	margin: auto;
+	margin-top: 50px;
+	width: 1280px;
+	-webkit-border-radius: 80px;
+		-moz-border-radius: 80px;
+		-ms-border-radius: 80px;
+		border-radius: 80px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+
+
+		-webkit-box-shadow: 0px 0px 100px rgba(6,21,47,0.62);
+		-ms-box-shadow: 0px 0px 100px rgba(6,21,47,0.62);
+		box-shadow: 0px 0px 100px rgba(6,21,47,0.62);
+	
+	
+}
+h3{	
+	margin:auto;
+	padding-top: 25px;
+	text-align: center;
+	text-shadow:0px 0px 100px black;
+	
+}
+
+.spantext{
+	padding-top: 40px;
+	vertical-align: center;
+}
+.header1{
+	width: 940px;
+	position: relative;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	
+	height: 140px;
+	
+	margin: auto;
+	margin-top: 0px;
+
+
+
+}
+.unlist{
+	width: 100
+	margin:auto;
+	position: relative;
+}
+
+
+
+.cover{
+	margin: auto;
+
+	position: relative;
+	height: 480px;
+	width: 990px;
+
+}
+h4{
+	    line-height: 14px;
+    font-size: 13px;
+}
+
+
+.slika {
+	margin: auto;
+	margin-top: -50px;
+
+	position: relative;
+	height: 460px;
+	width: 940px;
+	
+	background-image: none;
+		background-color: rgba(168,1,29,0.88);
+
+		-webkit-transform:rotate(-4deg);
+		-ms-transform:rotate(-4deg);
+		transform:rotate(-4deg);
+
+		-webkit-border-radius: 80px;
+		-moz-border-radius: 80px;
+		-ms-border-radius: 80px;
+		border-radius: 80px;
+
+
+	
+		
+
+
+	
+}
+/*.slika:hover{
+	-webkit-transform:rotate(0deg);
+		-ms-transform:rotate(0deg);
+		transform:rotate(0deg);
+
+}
+
+.slika:hover .form{
+			-webkit-transform:rotate(0deg);
+		-ms-transform:rotate(0deg);
+		
+		transform:rotate(0deg);
+}*/
+/*.banner-information-strip-background {
+		-webkit-box-shadow: 0px 0px 8px rgba(0,0,0,0.6);
+		-ms-box-shadow: 0px 0px 8px rgba(0,0,0,0.6);
+		box-shadow: 0px 0px 8px rgba(0,0,0,0.6);
+		margin:0px;
+		background-color: rgba(6,21,47,0.62);
+		padding: 20px 10px 0px 10px;
+		position: absolute;
+		min-height: 1000px;
+		
+		width: 260px;
+
+		padding-bottom: 15px;
+
+		
+}*/
+
+.logo{
+	height: 120px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 100px;
+	position: relative;
+}
+
+.cut-out-region {
+    background-position: center top;
+    background-repeat: no-repeat;
+    z-index: 2005;
+    bottom: 0px;
+    width: 100%;
+    display: block;
+}
+.unselectable {
+	/*-webkit-user-select: none;
+	-moz-user-select:    none;
+	-ms-user-select:     none;
+	-o-user-select:      none;
+	user-select:         none;
+	cursor: default;*/
+}
+.copyright {
+	text-align: center;
+	font-size: 13px;
+	display: block;
+	
+	color: #000;
+	font-family: 'Open Sans', sans-serif;
+	height: 100%;
+	padding-top: 18px;
+	margin: 10px;
+			}
+
+
+
+
+
+
+
+
+/*
+.lozinka {
+		-webkit-box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+		-ms-box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+		box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+
+		background-color: rgba(6,21,47,0.62);
+		background-color: rgba(168,1,29,0.80);
+
+		width: 180px;
+		height: 80px;
+
+		-webkit-transform:rotate(10deg);
+		-ms-transform:rotate(10deg);
+		transform:rotate(10deg);
+
+		-webkit-border-radius: 25px;
+		-moz-border-radius: 25px;
+		-ms-border-radius: 25px;
+		border-radius: 25px;
+
+		transition: 877ms;
+
+		margin:auto;
+		right: 200px;
+
+		position: absolute;
+		display: block;
+		z-index: 200;
+
+	}*/
+
+	.reset {
+		/*margin:auto;*/
+		margin-top:1130px;
+		position: relative;
+		cursor: pointer;
+		text-decoration: none;
+		font-family: 'Open Sans', sans-serif;
+		color: white;
+  		font-size: 14px;
+  		text-align:center;
+  		
+  		
+
+	}
+	a{
+		text-decoration: none;
+		color: white;
+	}
+	.reset:hover{
+		color: rgba(6,21,47,0.62);
+	}
